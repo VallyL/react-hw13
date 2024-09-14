@@ -1,0 +1,11 @@
+.filterInput {
+  width: 400px;
+  height: 50px;
+  padding-left: 20px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+.filterInput:focus {
+  outline: none;
+}
